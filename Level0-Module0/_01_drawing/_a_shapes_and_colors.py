@@ -8,7 +8,7 @@ if __name__ == '__main__':
     myTurtle = turtle.Turtle()
     
     # Make your turtle's shape 'turtle', .shape('turtle')
-    
+    myTurtle.shape('turtle')
     # Set your turtle's speed using .speed(2)
     
     # Set your turtle's color using .color('green') and .pencolor('blue')
